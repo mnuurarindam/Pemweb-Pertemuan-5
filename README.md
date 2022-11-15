@@ -12,7 +12,7 @@ yaitu NIM, Nama, dan Program Studi.
 <details>
 <summary>Data Tabel</summary>
 
-Data yang saya buat berjumlah 10 data mahasiswa
+Terdapat 12 data mahasiswa dalam database
 
 ![Data Mahasiswa](src/data-table.png)
 </details>
@@ -20,17 +20,9 @@ Data yang saya buat berjumlah 10 data mahasiswa
 <details>
 <summary>Pertama Kali Dijalankan</summary>
 
-Data yang terlihat masih kosong karena belum memilih *option* yang ada
+Belum ada data yang dapat dilihat karena belum ada *option yang dipilih
 
 ![Output1](src/output-1.png)
-</details>
-
-<details>
-<summary>Proses Loading </summary>
-
-Tampilan ini saya buat agar pergantian data yang dipilih akan terlihat jelas
-
-![Output2](src/output-2.png)
 </details>
 
 <details>
