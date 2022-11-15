@@ -20,7 +20,7 @@ Terdapat 12 data mahasiswa dalam database
 <details>
 <summary>Pertama Kali Dijalankan</summary>
 
-Belum ada data yang dapat dilihat karena belum ada *option yang dipilih
+Belum ada data yang dapat dilihat karena belum ada *option* yang dipilih
 
 ![Output1](src/output-1.png)
 </details>
