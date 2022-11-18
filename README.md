@@ -3,8 +3,7 @@ Tugas Praktikum Pemrogram Web Pertemuan 5
 
 M Nuur Arinda M (120140145)
 
-> Membuat aplikasi web yang dapat menampilkan data mahasiswa ketika pengguna melakukan
-perubahan pada pilihan program studi yang tersedia menggunakan bantuan AJAX.
+> Aplikasi web untuk menampilkan data-data mahasiswa berdasarkan prodi yang dipilih
 > - Aplikasi terhubung ke database yang memiliki tabel mahasiswa dengan minimal 3 data
 yaitu NIM, Nama, dan Program Studi.
 > - Terdapat minimal 10 baris data mahasiswa.
@@ -14,21 +13,21 @@ yaitu NIM, Nama, dan Program Studi.
 
 Terdapat 12 data mahasiswa dalam database
 
-![Data Mahasiswa](src/data-table.png)
+![Data Mahasiswa](src/tabeldata.png)
 </details>
 
 <details>
 <summary>Pertama Kali Dijalankan</summary>
 
-Belum ada data yang dapat dilihat karena belum ada *option* yang dipilih
+Belum ada data yang dapat dilihat karena belum ada prodi yang dipilih
 
-![Output1](src/output-1.png)
+![Output1](src/output1.png)
 </details>
 
 <details>
 <summary>Hasil akhir</summary>
 
-Data yang terlihat akan sesuai dengan yang dipilih
+Data yang terlihat setelah memilih prodi
 
-![Output3](src/output-3.png)
+![Output3](src/output2.png)
 </details>
